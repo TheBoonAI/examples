@@ -6,4 +6,6 @@ The following are examples on how to use the BoonAI SDK.
 
 The BoonSDK requires Python 3.5 or later.
 
-```pip install boonsdk```
+```bash
+pip install boonsdk
+```
