@@ -1,4 +1,4 @@
-# BoonAI Examples
+# BoonSDK Examples
 
 The following are examples on how to use the BoonAI SDK.
 
