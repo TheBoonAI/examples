@@ -9,6 +9,9 @@ def process(asset):
     width = asset.get_attr("media.width")
     height = asset.get_attr("media.height")
     
+    if not width or not height:
+        return None
+
     # There could be multiple faces, so we'll stash the area of our biggest
     # face into the big_face variable.
     big_face = 0
